@@ -1,3 +1,4 @@
 # aaaa
-# testa
-# testa
+
+mkdir -p ./github/workflows/
+touch ./github/workflows/config.yml
